@@ -1,114 +1,113 @@
 lexique	number
 rouge	203
 bleu	196
-blanc	156
 jaune	190
+blanc	157
 noir	148
 vert	187
- blanc	1
-le rouge	1
-bleu cyan	1
-blanc (est-ce une couleur?)	1
-rose	113
 violet	149
 bleue	2
 rouje	1
-blue	1
-noire	2
-marron	105
+blanc (est-ce une couleur?)	1
+le rouge	1
+rose	113
+bleu cyan	1
 orange	148
-rouge magenta	1
+noire	2
+blue	1
 le jaune	2
+rouge magenta	1
 vert clair	3
+marron	105
 le bleu	1
-bleu jaune	1
 bleu ciel	3
-gris	99
-le vert	1
+bleu jaune	1
 magenta	11
+le vert	1
+gris	99
 cyan	10
 brun	16
-noir (est-ce une couleur?)	1
 l’orange	1
 bleu marine	5
-indigo	10
+noir (est-ce une couleur?)	1
 azuré	1
+indigo	10
+(noir)	1
 le violet	1
-sepia	1
 vert foncé	2
 voilet	1
-(noir)	1
-pourpre	5
-ocre	6
+sepia	1
 beige	33
-(blanc)	1
-bordeaux	9
-bleu foncé	2
-prune	2
 turquoise	13
+ocre	6
+prune	2
+bleu foncé	2
+pourpre	5
+bordeaux	9
+(blanc)	1
 mauve	19
-fuscia	1
 vert fonc2	1
 parme	4
+fuscia	1
 vert d'eau	1
-carmin	4
 bleu clair	2
-vermillon	1
 grenat	3
+vermillon	1
+carmin	4
 or	7
+gri	1
+brun clair	1
 taupe	2
 emeraude	2
-brun clair	1
-lila	3
-gri	1
 kaki	6
-saumon	1
-pastel	1
+lila	3
 argenté	4
+saumon	1
 moutarde	2
-grenad	1
-brun fonce	1
 anthracite	1
 bordeau	2
+pastel	1
+brun fonce	1
 fushia	1
-bleue-marine	1
-doré	4
-lilas	2
+grenad	1
 le test est variante et sous ton	1
 sienne	1
+doré	4
+bleue-marine	1
 fuchsia	1
-crème	2
+lilas	2
 verte émeraude	1
 vert-bouteille	1
+crème	2
 roux	2
 argent	4
 émeraude	2
 blond	3
 ivoire	1
 fauve	2
-ecarlate	1
 châtain	1
+acajou	1
+ecarlate	1
 terre de sienne	1
 azur	1
-acajou	1
-jaune citron	1
 rouille	1
+jaune citron	1
+noisette	1
 ecru	1
 rubis	1
-noisette	1
 marron clair	1
 bronze	2
 caramel	1
 corde	1
 marron foncé	1
-vermeil	1
 olive	2
+vermeil	1
 pistache	1
 rouge carmin	1
 jade	1
 chair	1
 gris clair	1
-gris foncé	1
-mordoré	1
-ambre	1
 maxi	1
+mordoré	1
+gris foncé	1
+ambre	1

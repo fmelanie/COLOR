@@ -1,112 +1,110 @@
-"lexique","correction","number"
-" blanc","blanc",1
-"(blanc)","blanc",1
-"(noir)","noir",1
-"acajou","acajou",1
-"ambre","ambre",1
-"anthracite","anthracite",1
-"argent","argent",4
-"argenté","argenté",4
-"azur","azur",1
-"azuré","azur",1
-"beige","beige",33
-"blanc","blanc",156
-"blanc (est-ce une couleur?)","blanc",1
-"bleu","bleu",196
-"bleu ciel","bleu_modif",3
-"bleu clair","bleu_modif",2
-"bleu cyan","bleu_modif",1
-"bleu foncé","bleu_modif",2
-"bleu jaune","bleu_modif",1
-"bleu marine","bleu_modif",5
-"bleue","bleu",2
-"bleue-marine","bleu_modif",1
-"blond","blond",3
-"blue","bleu",1
-"bordeau","bordeaux",2
-"bordeaux","bordeaux",9
-"bronze","bronze",2
-"brun","brun",16
-"brun clair","brun_modif",1
-"brun fonce","brun_modif",1
-"caramel","caramel",1
-"carmin","carmin",4
-"chair","chair",1
-"châtain","châtain",1
-"corde","corde",1
-"crème","crème",2
-"cyan","cyan",10
-"doré","doré",4
-"ecarlate","écarlate",1
-"ecru","écru",1
-"emeraude","émeraude",2
-"émeraude","émeraude",2
-"fauve","fauve",2
-"fuchsia","fuchsia",1
-"fuscia","fuchsia",1
-"fushia","fuchsia",1
-"grenad","grenat",1
-"grenat","grenat",3
-"gri","gris",1
-"gris","gris",99
-"gris clair","gris_modif",1
-"gris foncé","gris_modif",1
-"indigo","indigo",10
-"ivoire","ivoire",1
-"jade","jade",1
-"jaune","jaune",190
-"jaune citron","jaune_modif",1
-"kaki","kaki",6
-"l’orange","orange",1
-"le bleu","bleu",1
-"le jaune","jaune",2
-"le rouge","rouge",1
-"le vert","vert",1
-"le violet","violet",1
-"lila","lilas",3
-"lilas","lilas",2
-"magenta","magenta",11
-"marron","marron",105
-"marron clair","marron_modif",1
-"marron foncé","marron_modif",1
-"mauve","mauve",19
-"mordoré","mordoré",1
-"moutarde","moutarde",2
-"noir","noir",148
-"noir (est-ce une couleur?)","noir",1
-"noire","noir",2
-"noisette","noisette",1
-"ocre","ocre",6
-"olive","olive",2
-"or","or",7
-"orange","orange",148
-"parme","parme",4
-"pastel","pastel",1
-"pistache","pistache",1
-"pourpre","pourpre",5
-"prune","prune",2
-"rose","rose",113
-"rouge","rouge",203
-"rouge carmin","rouge_modif",1
-"rouge magenta","rouge_modif",1
-"rouille","rouille",1
-"rouje","rouge",1
-"roux","roux",2
-"rubis","rubis",1
-"saumon","saumon",1
-"sepia","sepia",1
-"sienne","sienne",1
-"taupe","taupe",2
-"terre de sienne","terreDeSienne",1
-"turquoise","turquoise",13
-"vermeil","vermeil",1
-"vermillon","vermillon",1
-"vert","vert",187
-"vert clair","vert_modif",3
-"vert d'eau","vert_modif",1
-"vert fonc2","vert_modif",1
-"vert foncé","vert_modif",2
-"vert-bouteille","vert_modif",1
-"verte émeraude","vert_modif",1
-"violet","violet",149
-"voilet","violet",1
+"lexique","correction","number","percent"
+"acajou","acajou",1,"0.05"
+"anthracite","anthracite",1,"0.05"
+"argent","argent",4,"0.2"
+"argenté","argenté",4,"0.2"
+"azur","azur",1,"0.05"
+"azuré","azur",1,"0.05"
+"beige","beige",33,"1.67"
+" blanc","blanc",1,"0.05"
+"(blanc)","blanc",1,"0.05"
+"blanc","blanc",156,"7.91"
+"blanc (est-ce une couleur?)","blanc",1,"0.05"
+"bleu","bleu",196,"9.94"
+"bleue","bleu",2,"0.1"
+"blue","bleu",1,"0.05"
+"le bleu","bleu",1,"0.05"
+"bleu ciel","bleu (modif)",3,"0.15"
+"bleu clair","bleu (modif)",2,"0.1"
+"bleu cyan","bleu (modif)",1,"0.05"
+"bleu foncé","bleu (modif)",2,"0.1"
+"bleu jaune","bleu (modif)",1,"0.05"
+"bleu marine","bleu (modif)",5,"0.25"
+"bleue-marine","bleu (modif)",1,"0.05"
+"blond","blond",3,"0.15"
+"bordeau","bordeaux",2,"0.1"
+"bordeaux","bordeaux",9,"0.46"
+"bronze","bronze",2,"0.1"
+"brun","brun",16,"0.81"
+"brun clair","brun (modif)",1,"0.05"
+"brun fonce","brun (modif)",1,"0.05"
+"caramel","caramel",1,"0.05"
+"carmin","carmin",4,"0.2"
+"chair","chair",1,"0.05"
+"châtain","châtain",1,"0.05"
+"corde","corde",1,"0.05"
+"crème","crème",2,"0.1"
+"cyan","cyan",10,"0.51"
+"doré","doré",3,"0.15"
+"ecarlate","écarlate",1,"0.05"
+"ecru","écru",1,"0.05"
+"emeraude","émeraude",2,"0.1"
+"émeraude","émeraude",2,"0.1"
+"fauve","fauve",2,"0.1"
+"fuchsia","fuchsia",1,"0.05"
+"fuscia","fuchsia",1,"0.05"
+"fushia","fuchsia",1,"0.05"
+"grenad","grenade",1,"0.05"
+"grenat","grenat",3,"0.15"
+"gri","gris",1,"0.05"
+"gris","gris",99,"5.02"
+"gris clair","gris (modif)",1,"0.05"
+"indigo","indigo",10,"0.51"
+"ivoire","ivoire",1,"0.05"
+"jade","jade",1,"0.05"
+"jaune","jaune",190,"9.64"
+"le jaune","jaune",2,"0.1"
+"jaune citron","jaune (modif)",1,"0.05"
+"kaki","kaki",6,"0.3"
+"lila","lilas",3,"0.15"
+"lilas","lilas",2,"0.1"
+"magenta","magenta",11,"0.56"
+"marron","marron",105,"5.33"
+"marron clair","marron (modif)",1,"0.05"
+"marron foncé","marron (modif)",1,"0.05"
+"mauve","mauve",19,"0.96"
+"moutarde","moutarde",2,"0.1"
+"(noir)","noir",1,"0.05"
+"noir","noir",148,"7.51"
+"noir (est-ce une couleur?)","noir",1,"0.05"
+"noire","noir",2,"0.1"
+"noisette","noisette",1,"0.05"
+"ocre","ocre",6,"0.3"
+"olive","olive",2,"0.1"
+"or","or",7,"0.36"
+"l’orange","orange",1,"0.05"
+"orange","orange",148,"7.51"
+"parme","parme",4,"0.2"
+"pastel","pastel",1,"0.05"
+"pistache","pistache",1,"0.05"
+"pourpre","pourpre",5,"0.25"
+"prune","prune",2,"0.1"
+"rose","rose",113,"5.73"
+"le rouge","rouge",1,"0.05"
+"rouge","rouge",203,"10.3"
+"rouje","rouge",1,"0.05"
+"rouge carmin","rouge (modif)",1,"0.05"
+"rouge magenta","rouge (modif)",1,"0.05"
+"rouille","rouille",1,"0.05"
+"roux","roux",2,"0.1"
+"rubis","rubis",1,"0.05"
+"saumon","saumon",1,"0.05"
+"sepia","sepia",1,"0.05"
+"sienne","sienne",1,"0.05"
+"taupe","taupe",2,"0.1"
+"terre de sienne","terre de sienne",1,"0.05"
+"turquoise","turquoise",13,"0.66"
+"vermeil","vermeil",1,"0.05"
+"vermillon","vermillon",1,"0.05"
+"le vert","vert",1,"0.05"
+"vert","vert",187,"9.49"
+"vert clair","vert (modif)",3,"0.15"
+"vert d'eau","vert (modif)",1,"0.05"
+"vert fonc2","vert (modif)",1,"0.05"
+"vert foncé","vert (modif)",2,"0.1"
+"vert-bouteille","vert (modif)",1,"0.05"
+"verte émeraude","vert (modif)",1,"0.05"
+"le violet","violet",1,"0.05"
+"violet","violet",149,"7.56"
+"voilet","violet",1,"0.05"
+"le test est variante et sous ton",,1,"0.05"
